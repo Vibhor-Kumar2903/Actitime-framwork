@@ -4,9 +4,9 @@
   <test thread-count="5" name="Test">
     <classes>
       <class name="com.rmg.api.projecttest.CreateProject_With_CompletedStatusTest"/>
-      <!-- <class name="com.rmg.api.projecttest.CreateProject_With_InValidStatusTest"/> -->
       <class name="com.rmg.api.projecttest.CreateProject_With_CreatedStatusTest"/>
       <class name="com.rmg.api.projecttest.CreateProject_With_OnGoingStatusTest"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
+     
